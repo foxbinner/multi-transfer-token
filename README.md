@@ -10,8 +10,8 @@
 Easily transfer any tokens (e.g., Sepolia USDC) from <br>**single address to multiple addresses** or consolidate funds from <br>**multiple addresses into one**—all in an instant!
 
 <p align="center">
-  <img width="45%" alt="Main to Multi" src="https://i.postimg.cc/R3yfSNdN/main-to-multi-token.png">
-  <img width="45%" alt="Multi to Main" src="https://i.postimg.cc/qtzyH88P/multi-to-main-token.png">
+  <img width="45%" alt="Main to Multi" src="https://i.postimg.cc/MTKYYBjb/main-to-multi-token.png">
+  <img width="45%" alt="Multi to Main" src="https://i.postimg.cc/nL1k72Mh/multi-to-main-token.png">
 </p>
 
 </div>
